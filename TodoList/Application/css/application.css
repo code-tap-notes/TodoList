@@ -1,0 +1,21 @@
+.container-fluid {
+    margin-top: 25px;
+}
+
+.toolbar {
+    list-style: none;
+    padding-left: 0;
+}
+
+.toolbar li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.actions {
+    margin-top: 25px;
+}
+
+.actions button, .actions a {
+    margin-right: 15px;
+}
